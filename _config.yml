@@ -10,8 +10,8 @@ permalink:        pretty
 title:            DCPixel
 tagline:          'Custom Website Development'
 description:      'We develop secure websites based on Internet technologies designed to meet your specific business needs'
-url:              https://dcpixel.github.io/
-baseurl:          /dcpixel/
+url:              https://dcpixel.github.io/dcpixel/
+baseurl:          /
 
 author:
   name:           'Mark Otto'
