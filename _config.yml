@@ -7,7 +7,7 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            DCpixel
+title:            DCPixel
 tagline:          'Custom Website Development'
 description:      'We develop secure websites based on Internet technologies designed to meet your specific business needs'
 url:              https://dcpixel.github.io/
@@ -20,8 +20,8 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+# version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+#github:
+#  repo:           https://github.com/poole/hyde
 
