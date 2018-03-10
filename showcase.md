@@ -7,5 +7,3 @@ published: true
 <p class="message">
 Client Websites
 </p>
-
-**abc**
